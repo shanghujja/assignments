@@ -1,0 +1,35 @@
+.first{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: 2px dashed;
+    padding: 20px; 
+  width: 300px;
+  height: 300px;  
+}
+.second{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: 2px dashed;
+    padding: 20px; 
+  width: 200px;
+  height: 300px;  
+}
+.Third{
+  color: brown;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  border: 2px dashed;
+  padding: 20px; 
+  width: 200px;
+  height: 200px;  
+}
+.dad div{
+   color: blue;
+   width: 10px;
+   height: 10px;
+   margin: 10%;
+
+
+}

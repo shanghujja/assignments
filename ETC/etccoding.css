@@ -1,0 +1,10 @@
+p {
+    color: red; 
+    font-size: 50px;
+ }
+ .first{
+     font-weight: bold;
+}
+.done {
+    text-decoration: steelblue;
+}
